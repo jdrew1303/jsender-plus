@@ -1,6 +1,8 @@
 # JSender +
 
-Adds Express `res` helper methods to assist in sending appropriate HTTP Status codes for [JSender](https://github.com/samora/jsender) methods.
+A few more [Express](http://expressjs.com) helper methods for [JSender](https://github.com/samora/jsender).
+
+Methods add specific HTTP Status Codes.
 
 ## Installation 
 
