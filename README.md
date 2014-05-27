@@ -37,11 +37,11 @@ app.post('/users', function (req, res) {
 
 ## API
 
-### res.successCreate(data)
+### res.successCreated(data)
 
 * __data__: _Optional_ object to send in JSON response.
 
-HTTP Status: `200`
+HTTP Status: `201`
 
 ### res.failValidation(data)
 
