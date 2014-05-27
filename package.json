@@ -1,6 +1,6 @@
 {
   "name": "jsender-plus",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A few more Express response helper methods for JSender.",
   "main": "index.js",
   "repository": {
