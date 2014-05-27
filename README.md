@@ -51,7 +51,7 @@ HTTP Status: `400`
 
 ### res.errorNotFound(item, data, code)
 
-* __item__: _Optional_ string name of item that cannot be found.
+* __item__: _Optional_ string stating item that cannot be found.
 * __data__: _Optional_ object
 * __code__: _Optional_ number
 
